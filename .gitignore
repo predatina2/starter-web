@@ -1,2 +1,4 @@
 newnewfile.txt
 ente.txt
+*.log
+log/
