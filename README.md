@@ -12,4 +12,8 @@ The purpose is to test Git
 
 ## Deployment
 
+Deployment makes fun.
+
 ## How To Contribute
+
+If you have experience and time you can easy contribute.
