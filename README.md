@@ -17,3 +17,7 @@ Deployment makes fun.
 ## How To Contribute
 
 If you have experience and time you can easy contribute.
+
+### Copyright
+
+2018 Git.Training.
