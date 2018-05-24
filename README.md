@@ -17,6 +17,7 @@ Deployment makes fun.
 ## How To Contribute
 
 If you have experience and time you can easy contribute.
+please fork this repository and then issue Pull requests for review.
 
 ### Copyright
 
